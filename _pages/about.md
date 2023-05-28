@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Senior AR/VR developer
+subtitle: Senior software developer
 
 profile:
   align: right
@@ -15,8 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Senior developer experienced with fast prototype development, scaling up prototypes and leading small research teams. Familiar with a wide range of AR/VR devices and technologies.
+Welcome to my website! My name is Aleksandr Evgrasin.
 
-Senior developer experienced with fast prototype development, scaling up prototypes and leading small research teams. Familiar with a wide range of AR/VR devices and technologies.
+I'm a senior developer experienced with fast prototype creation, scaling up prototypes and leading small research teams. I'm familiar with a wide range of <b>AR/VR</b> devices and technologies.
 
-Senior developer experienced with fast prototype development, scaling up prototypes and leading small research teams. Familiar with a wide range of AR/VR devices and technologies.
+Throughout my career, I have worked on various <b>machine learning</b> tasks. Currently, I am very interested in Large Language Models like GPT, Speech to Text synthesis, Generative Content and Computer Vision applications.
+
+In my free time, I actively contribute to  <b>open-source projects</b>. I also enjoy playing video games, traveling, running and bike riding.
+
+My most common nickname is macoron.

@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Macoron
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Macoron/whisper.unity
+  - Macoron/gpt4all.unity
+  - Macoron/Unity-Simple-Liquid
+  - Macoron/RoguelikeECS

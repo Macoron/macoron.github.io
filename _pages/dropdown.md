@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Contact Me
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: E-Mail 
+      permalink: mailto:alexevgrashin@gmail.com
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: LinkedIn
+      permalink: https://www.linkedin.com/in/alex-evgrashin/
+    - title: divider
+    - title: Github
+      permalink: https://github.com/Macoron
 ---
