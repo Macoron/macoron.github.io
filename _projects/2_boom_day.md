@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Boom Day
-description: Mobile game developed for Samberdino studio
+description: Mobile game developed by Samberdino studio
 img: assets/img/projects/boom-day.jpg
 importance: 1
 category: early projects

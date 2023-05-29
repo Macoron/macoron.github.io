@@ -7,7 +7,7 @@ importance: 970
 category: open source
 ---
 
-Simple Liquid Simulation framework for Unity3D.
+My project of Simple Liquid Simulation framework for Unity3D.
 
 Main features:
 

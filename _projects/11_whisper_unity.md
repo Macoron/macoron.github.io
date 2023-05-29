@@ -23,7 +23,7 @@ Here is some samples of whisper.unity:
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/whisper_multilang.mp4" class="img-fluid rounded z-depth-1" controls=true %}
         <div class="caption">
-            "whisper.tiny" in subtitles demo, color shows confidence level for each token
+            "whisper-small.bin" model tested in English, German and Russian from microphone
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
