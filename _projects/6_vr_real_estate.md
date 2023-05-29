@@ -1,13 +1,15 @@
 ---
 layout: page
 title: VR Real Estate
-description: Virtual Reality showroom for PSN Group
+description: Virtual showroom for Real Estate developer
 img: assets/img/projects/vr-real-estate.jpg
 importance: 990
 category: work
 ---
 
-Project made by Interactive Lab.
+Project made by Interactive Lab for PSN Group.
+
+My main responsibility was developing UI and integration of Optitrack tracking system. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -7,7 +7,11 @@ importance: 980
 category: work
 ---
 
-Project made by Sber AR/VR Lab. Using custom Visual Positioning System, our team created AR Navigation app for iOS and Android.
+Project made by Sber AR/VR Lab. 
+
+Using custom Visual Positioning System, our team created AR Navigation app for iOS and Android. Project was scalled to three buisness centers and two malls. 
+
+In the end we developed SDK that could be used by third-party developers to create AR Navigations on their own locations.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

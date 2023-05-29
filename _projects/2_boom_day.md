@@ -7,6 +7,8 @@ importance: 1
 category: early projects
 ---
 
+Project made by Samberdino (Brogaming) Game Studio.
+
 I have been studying at the university while also doing freelance work during my free time. After successfully completing several projects for Samberdino Game Studio, I was invited to join their company.
 
 As a part of the team, we developed a mobile game called Boom Day, which was an MMORTS similar to Clash of Clans. My primary responsibilities included working on network architecture and AI logic. Additionally, I had the opportunity to lead junior developers who were responsible for developing various unit mechanics.

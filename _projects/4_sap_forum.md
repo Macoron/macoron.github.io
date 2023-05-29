@@ -4,7 +4,7 @@ title: Live AR show
 description: Live AR show for SAP Forum Opening
 img: assets/img/projects/sap-forum.jpg
 importance: 1000
-category: work
+category: not used
 ---
 
 Every project has a beautiful feature showcase page.
