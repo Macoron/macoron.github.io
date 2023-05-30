@@ -9,10 +9,14 @@ category: work
 
 Project made by Sber AR/VR Lab.
 
-Using custom Visual Positioning System, our team created mobile app with AR filters for several city landmarks. One of the chalanges was to integrate Unity3d visualization in native mobile application writen in Swift and Kotlin. We decided to pack our project as a Library and integrate into existing app.
+Our team developed a mobile app with AR filters for various city landmarks and historical buildings, utilizing a custom Visual Positioning System. The main challenge was creating a robust user localization system capable of estimating outdoor user positions using just a single image.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+As the lead of the mobile app development team, my responsibilities included working on the server-client protocol architecture, implementing the user interface, and integrating the app into existing native applications. Initially developed in Unity, the project was later ported to native Swift and Kotlin.
+
+The localization technology and mobile apps was successfully delivered to multiple customers. Following successful testing, the Visual Positioning System was transformed into a public service avaliable for third-party developers.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.html path="assets/video/landmarks.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>

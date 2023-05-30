@@ -7,9 +7,9 @@ importance: 2
 category: early projects
 ---
 
-In 2014, I acquired my first VR helmet and began experimenting with it. It quickly became apparent to me and my friends that while the technology was incredibly cool, there was a vast untapped potential, particularly in the input system.
+In 2014, I bought my first VR helmet and began experimenting with it. It quickly became apparent to me and my friends that while the technology was incredibly cool, there was a vast untapped potential, especially in the input system.
 
-The original Oculus Rift DK1 we obtained was 3DOF, meaning it only tracked the user's head rotation. Moreover, there were no input devices available apart from a mouse and keyboard, which imposed significant limitations. Most games were mere roller coasters without any player interaction.
+The original Oculus Rift DK1 we tested was 3DOF, meaning it only tracked the user's head rotation. Moreover, there were no input devices available apart from a mouse and keyboard, which was significant limitation. Most games were just roller coasters without any player interaction.
 
 We decided to create our own controller. I purchased two YEI 3-space IMU sensors and developed a simple self-made arm-tracking controller. One sensor was fixed on an elbow, another one placed in a palm.
 

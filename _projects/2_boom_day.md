@@ -18,5 +18,3 @@ As a part of the team, we developed a mobile game called Boom Day, which was an 
         {% include video.html path="assets/video/boomday.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-
-After completing the project, I left the company to focus more on my graduation work. I am truly grateful for the chance to work with highly experienced developers and lead a small team this early in my career.

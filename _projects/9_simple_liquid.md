@@ -7,7 +7,7 @@ importance: 970
 category: open source
 ---
 
-My project of Simple Liquid Simulation framework for Unity3D.
+While working on a VR game prototype, I required a fast and straightforward liquid simulation that could run on a VR mobile headset. So I developed the Simple Liquid Simulation framework for Unity and published it open-source.
 
 Main features:
 
