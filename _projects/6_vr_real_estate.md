@@ -15,7 +15,7 @@ This app was created as a VR showroom to address the main challenge faced by the
 - A specialized app for controlling the presentation.
 - Support for multiple users in the same virtual environment.
 
-My main responsibilities were developing the user interface and implementing the synchronization logic for tracking. The project was successful and later expanded for three other real estate projects.
+My main responsibilities were developing the user interface and implementing the synchronization logic for tracking. The VR showroom was successful and later expanded for three other real estate projects.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
