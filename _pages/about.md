@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my website! My name is Aleksandr Evgrasin.
 
-I'm a senior developer experienced with fast prototype creation, scaling up prototypes and leading small research teams. I'm familiar with a wide range of <b>AR/VR</b> devices and technologies.
+I'm a senior developer experienced with fast prototype creation, scaling up experimental solutions and leading small research teams. I'm familiar with a wide range of <b>AR/VR</b> devices and technologies.
 
 Throughout my career, I have worked on various <b>machine learning</b> tasks. Currently, I am very interested in Large Language Models like GPT, Speech to Text synthesis, Generative Content and Computer Vision applications.
 

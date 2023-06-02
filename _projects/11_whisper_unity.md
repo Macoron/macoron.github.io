@@ -7,7 +7,7 @@ importance: 970
 category: open source
 ---
 
-Unity3d bindings for the <a href="https://github.com/ggerganov/whisper.cpp">whisper.cpp</a>. It provides high-performance inference of <a href="https://github.com/openai/whisper">OpenAI's Whisper</a> automatic speech recognition (ASR) model running on your local machine.
+Open-source Unity3d bindings for the <a href="https://github.com/ggerganov/whisper.cpp">whisper.cpp</a>. It provides high-performance inference of <a href="https://github.com/openai/whisper">OpenAI's Whisper</a> automatic speech recognition (ASR) model running on your local machine.
 
 Main features:
 
