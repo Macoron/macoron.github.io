@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior software developer
+subtitle: Senior Software Developer
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! My name is Aleksandr Evgrasin.
+Welcome to my website! My name is Aleksandr Evgrashin.
 
 I'm a senior developer experienced with fast prototype creation, scaling up experimental solutions and leading small research teams. I'm familiar with a wide range of <b>AR/VR</b> devices and technologies.
 
@@ -23,4 +23,4 @@ Throughout my career, I have worked on various <b>machine learning</b> tasks. Cu
 
 In my free time, I actively contribute to  <b>open-source projects</b>. I also enjoy playing video games, traveling, running and bike riding.
 
-My most common nickname is macoron.
+My most common nickname is "macoron".
